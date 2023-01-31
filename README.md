@@ -1,4 +1,4 @@
-I'm a senior application developer building software and web sites with high-level documentation and coding standards.
+I'm a senior application engineer building software and web sites with high-level documentation and coding standards.
 
 <b>My top five strengths are:</b>
   - Includer
